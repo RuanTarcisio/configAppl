@@ -1,0 +1,10 @@
+build:
+  version: "1.5"
+
+cards:
+  message: "Welcome to RTarcisioBanks cards related local APIs "
+  contactDetails:
+    name: "Ruan Tarcisio - Product Owner"
+    email: "ruantarcisio@rtarcisiobank.com"
+  onCallSupport:
+    - (71) 99226-6662

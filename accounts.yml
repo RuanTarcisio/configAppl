@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to RTarcisioBanks accounts related local APIs "
+  contactDetails:
+    name: "Ruan Tarcisio - Developer"
+    email: "ruantarcisio@rtarcisiobank.com"
+  onCallSupport:
+    - (71) 99226-6662
+

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to RTarcisioBanks loans related local APIs "
+  contactDetails:
+    name: "Ruan Tarcisio - QA"
+    email: "ruantarcisio@rtarcisiobank.com"
+  onCallSupport:
+    - (71) 99226-6662
