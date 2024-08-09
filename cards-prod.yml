@@ -2,7 +2,7 @@ build:
   version: "1.5"
 
 cards:
-  message: "Welcome to RTarcisioBanks cards related local APIs "
+  message: "Welcome to RTarcisioBanks cards related prod API!"
   contactDetails:
     name: "Ruan Tarcisio - Product Owner"
     email: "ruantarcisio@rtarcisiobank.com"
