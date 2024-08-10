@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to RTarcisio accounts related prod APIs! "
+  message: "Welcome to RTarcisio accounts related webHook prod APIs! "
   contactDetails:
     name: "Ruan Tarcisio Mugiwara - Product Owner"
     email: "{cipher}198ee7ee40f1ff62f1e196340b37c46ea3a62bfb8251adf67fb8c1ee34f23c4e5cf578df53dbf845de2d0f370ddfecb6"
